@@ -19,12 +19,15 @@ Bu proje, dünya genelindeki COVID-19 günlük vaka sayılarını kullanarak **P
 ```bash
 git clone https://github.com/kullaniciadi/covid19-forecast-streamlit.git
 cd covid19-forecast-streamlit
+```bash
 
 2. Gerekli kütüphaneleri yükleyin.
 ```bash
 pip install -r requirements.txt
+```bash
 
 3.Uygulamayı çalıştırın:
 ```bash
 streamlit run app.py
+```bash
 
