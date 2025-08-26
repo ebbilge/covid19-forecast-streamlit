@@ -5,8 +5,8 @@ Bu proje, dünya genelindeki COVID-19 günlük vaka sayılarını kullanarak **P
 ## Özellikler
 
 - Kullanıcı seçimine göre ülke bazlı veri analizi
-- Prophet ile günlük vaka tahmini (14 gün ileriye)
-- Interaktif Plotly grafikleri (zoom, hover, pan)
+- Prophet ile günlük vaka tahmini (30 gün ileriye)
+- Interaktif Plotly grafikleri
 - Hem gerçek hem tahmin edilen değerlerin görselleştirilmesi
 
 ## Veri Kaynağı
